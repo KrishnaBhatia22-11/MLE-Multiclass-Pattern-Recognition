@@ -1,7 +1,7 @@
 # MLE-Based Multi-Class Pattern Recognition System
 
 **Pattern Matching Lab (BCS-DS-738), Project 6**
-**Team:** Krishna Bhatia, Shivani Kuntal | **COs:** CO2, CO3 | **Bloom's Level:** BTL-5
+**Author:** Krishna Bhatia | **COs:** CO2, CO3 | **Bloom's Level:** BTL-5
 
 Implementation of **Maximum Likelihood Estimation (MLE)** for multi-class pattern recognition, with an evaluation of both the parameter estimates and the classification performance.
 
